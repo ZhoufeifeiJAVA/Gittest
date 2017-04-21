@@ -8,3 +8,7 @@ red
 green
 blue
 purple
+
+big 
+small
+middle
