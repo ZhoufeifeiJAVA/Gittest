@@ -3,3 +3,8 @@ hello java
 hello python
 hello go
 hello ruby
+
+red
+green
+blue
+purple
