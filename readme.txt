@@ -13,3 +13,4 @@ big
 small
 middle
 why this is a read only file
+vim is better to user than vi
