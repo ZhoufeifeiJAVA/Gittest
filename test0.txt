@@ -1,1 +1,2 @@
-this is the file to delete
+this is want I need
+ubuntu vi is hard to use
