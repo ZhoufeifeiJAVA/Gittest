@@ -1,3 +1,7 @@
 this is want I need
 ubuntu vi is hard to use
+<<<<<<< HEAD
 I am in master
+=======
+I am in test1
+>>>>>>> test1
