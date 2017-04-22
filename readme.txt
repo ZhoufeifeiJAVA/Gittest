@@ -12,3 +12,4 @@ purple
 big 
 small
 middle
+why this is a read only file
