@@ -12,8 +12,5 @@ purple
 big 
 small
 middle
-<<<<<<< HEAD
-master branch is diff from branck test0
-=======
-master branch is diff from branck test0
->>>>>>> test0
+
+changes in another file in Master branch
